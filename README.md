@@ -18,12 +18,13 @@
 ## 我要體驗一筆收銀檯訂單
 
 嘗試支付 ¥0.01 體驗 PASSTO PAY 支付寶代收流程
-<a href="https://cashier.passtopay.io/" target="_blank">[link_cashier]</a>
+[![](link_cashier)](https://cashier.passtopay.io/)
 
 ## 我要體驗商戶後臺
 
 使用商戶試用賬戶，查看商戶後臺功能
-<a href="https://mch.ylbhd.com/login?type=demo" target="_blank">[link_backend]</a>
+[![](link_backend)](https://mch.ylbhd.com/login?type=demo)
+
 
 ## 開源免費收銀檯
 
@@ -85,8 +86,6 @@ project
   - 展示訂單信息及二維碼收款地址
   - 頁面會根據支付結果展示不同的訂單狀態
 
-  ![][link_cashier] ![][link_success]
-
 ## 部署教程：
 
 - 開發：
@@ -113,6 +112,9 @@ yarn dev
 - [創建轉帳訂單](https://passtopay.io/f70d29f5231b483da80c5c21d98cb594?pvs=25)
 - [查詢轉帳訂單](https://passtopay.io/f70d29f5231b483da80c5c21d98cb594?pvs=25)
   更多接口詳情訪問：https://passtopay.io
+
+產品結束占位圖2
+
 
 ## AD -- PassTo-多種資產抵押信用卡
 
